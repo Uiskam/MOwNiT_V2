@@ -1,0 +1,2 @@
+polecenie kompilacji: g++ cw3.cpp -o cw3
+uruchomienie: ./cw3 (w folderze w którym znajduje się skompilowany plik)
