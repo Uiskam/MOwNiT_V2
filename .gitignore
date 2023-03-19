@@ -4,3 +4,12 @@ wysłane/*
 materiały/*
 extra/*
 /.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/lab_2/plots/*
+lab_2/errors/*
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/MOwNiT.iml
+/.idea/vcs.xml
+/lab_2/.ipynb_checkpoints/Interpolacja_15_03_23-checkpoint.ipynb
+*.zip
